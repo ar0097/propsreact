@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/propsreact/static/css/main.39e9e2c2.css",
+    "main.js": "/propsreact/static/js/main.5ec01411.js",
+    "static/js/787.24afd475.chunk.js": "/propsreact/static/js/787.24afd475.chunk.js",
+    "index.html": "/propsreact/index.html",
+    "main.39e9e2c2.css.map": "/propsreact/static/css/main.39e9e2c2.css.map",
+    "main.5ec01411.js.map": "/propsreact/static/js/main.5ec01411.js.map",
+    "787.24afd475.chunk.js.map": "/propsreact/static/js/787.24afd475.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39e9e2c2.css",
+    "static/js/main.5ec01411.js"
+  ]
+}
